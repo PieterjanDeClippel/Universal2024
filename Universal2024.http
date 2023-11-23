@@ -1,0 +1,6 @@
+@Universal2024_HostAddress = http://localhost:5178
+
+GET {{Universal2024_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
